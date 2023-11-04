@@ -13,13 +13,13 @@
     --MAIN-ANCHOR-color: #eeeff0;
     /* color of anchors on titles */
 
-    --MENU-HEADER-BG-color: #00B6EA;
+    --MENU-HEADER-BG-color: #d59321;
     /* Background color of menu header */
     --MENU-HEADER-BORDER-color: #fafafa;
     /*Color of menu header border */
 
     /* 検索ボックス */
-    --MENU-SEARCH-BG-color: #00B6EA;
+    --MENU-SEARCH-BG-color: #d59321;
     /* Search field background color (by default borders + icons) */
     --MENU-SEARCH-BOX-color: #fafafa;
     /* Override search field border color */
@@ -28,7 +28,7 @@
 
     --MENU-SECTIONS-ACTIVE-BG-color: #20272b;
     /* Background color of the active section and its childs */
-    --MENU-SECTIONS-BG-color: #00B6EA;
+    --MENU-SECTIONS-BG-color: #d59321;
     /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #ffffff;
     /* Color of links in menu */
