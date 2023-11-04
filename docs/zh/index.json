@@ -1,0 +1,36 @@
+[
+{
+	"uri": "https://hyoromo.github.io/slimegame-site/zh/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/slimegame-site/zh/",
+	"title": "index",
+	"tags": [],
+	"description": "",
+	"content": "合并史莱姆,把它们变大!\n你可以巧妙地合并跳动的史莱姆吗?\n*此应用是“Suika Game”的恶搞作品。\n游戏规则  一个一个将史莱姆放入箱子里 把同种类的史莱姆叠在一起可以进化到下一阶段 它们越大,你获得的分数就越高 如果史莱姆从箱子里掉出来,游戏就结束了  史莱姆碰到物体会弹跳。\n你可以利用它们的弹跳,也可以瞄准它们不会弹跳的地方。\n在排行榜上与全球玩家进行竞争吧!\n \n"
+},
+{
+	"uri": "https://hyoromo.github.io/slimegame-site/zh/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/slimegame-site/zh/tip/",
+	"title": "捐赠",
+	"tags": [],
+	"description": "",
+	"content": "感谢您考虑捐款！\n如果您喜欢该应用程序并认为您愿意支持该应用程序的开发，如果您能在下面提示我们，我们将很高兴。\n 亚马逊礼券电子邮件类型  电子邮件类型的目标电子邮件地址是 hyoromo@gmail.com 。\n从最低金额接受小费。\n我们收到的钱将用于基金发展。\n"
+},
+{
+	"uri": "https://hyoromo.github.io/slimegame-site/zh/credits/",
+	"title": "片头",
+	"tags": [],
+	"description": "",
+	"content": "片头 应用开发 \u0026amp; 网站开发 hyoromo\n网站开发工具 Hugo\nhugo-theme-learn\n"
+}]

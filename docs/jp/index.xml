@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on iOS/Androidアプリ「スライムゲーム」</title>
+    <link>https://hyoromo.github.io/slimegame-site/jp/</link>
+    <description>Recent content in index on iOS/Androidアプリ「スライムゲーム」</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/slimegame-site/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>クレジット</title>
+      <link>https://hyoromo.github.io/slimegame-site/jp/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/slimegame-site/jp/credits/</guid>
+      <description>クレジット アプリ開発 &amp;amp; サイト制作 hyoromo
+サイト制作ツール Hugo
+hugo-theme-learn</description>
+    </item>
+    
+    <item>
+      <title>投げ銭</title>
+      <link>https://hyoromo.github.io/slimegame-site/jp/tip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/slimegame-site/jp/tip/</guid>
+      <description>投げ銭をご検討頂き、ありがとうございます！
+アプリを気に入ってくださった方で「少しだけ開発のサポートしてあげようかな」と思ってくださった方がいらっしゃいましたら、以下から投げ銭を頂けますと嬉しいです。
+ Amazonギフト券 Eメールタイプ Amazonギフト券 商品券タイプ  Eメールタイプの送信先メールアドレスは hyoromo@gmail.com です。
+Eメールタイプからは15円から受け付けております。
+頂戴したお金は開発資金または生きる糧に回させて頂きます。</description>
+    </item>
+    
+  </channel>
+</rss>

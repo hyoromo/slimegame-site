@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://hyoromo.github.io/slimegame-site/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hyoromo.github.io/slimegame-site/jp/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hyoromo.github.io/slimegame-site/ko/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hyoromo.github.io/slimegame-site/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hyoromo.github.io/slimegame-site/zh-tw/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
