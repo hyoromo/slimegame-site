@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.cn.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTPlwh4_0O4?si=dFJt2FXrSCdKwKQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 合并史莱姆,把它们变大!<br>
 你可以巧妙地合并跳动的史莱姆吗?<br>
 *此应用是“Suika Game”的恶搞作品。<br>

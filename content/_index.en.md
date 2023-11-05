@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.en.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hug2DPA3QZg?si=_claQ3AYPm42ewCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Combine the slimes to make them bigger!<br>
 Can you skillfully combine the bouncing slimes?<br>
 *This app is a parody work of "Suika Game".<br>
