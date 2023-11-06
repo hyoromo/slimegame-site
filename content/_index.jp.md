@@ -4,7 +4,7 @@ title: index
 
 ![top banner](img_app_logo.jp.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smKZselibGY?si=U3Kbvwbe8DKR31uB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDdd7fcTaOY?si=-IGmlwFgBDGASoQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>スライムを合体させて、大きくしよう！</b><br>
 跳ね回るスライムたちを上手に合体させられるかな？<br>

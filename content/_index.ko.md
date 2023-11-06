@@ -4,7 +4,7 @@ title: index
 
 ![top banner](img_app_logo.kr.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv0D300wTcI?si=a_E-5Y_9oz5GCEBp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZjwEv2-z-g?si=YeZRGGHpeXfBd7O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 슬라임을 합체시켜 더 크게 만들어보자!<br>
 튀어오르는 슬라임들을 잘 합체시킬 수 있을까?<br>
